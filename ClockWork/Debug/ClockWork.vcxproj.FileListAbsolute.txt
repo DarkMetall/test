@@ -1,0 +1,2 @@
+C:\Users\Admin\Documents\GitHub\test\ClockWork\Debug\ClockWork.exe
+C:\Users\Admin\Documents\GitHub\test\ClockWork\Debug\ClockWork.pdb
